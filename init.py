@@ -34,5 +34,5 @@ def main():
     sys.exit(app.exec())
 
 if __name__ == "__main__":
-    test the function:
+    #test the function:
     main()
